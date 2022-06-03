@@ -2,9 +2,9 @@
 
 <h3>Projeto Easy Shopping - CSS Responsivo - DevClub.</h3>
 
-<img align="left" height="300px" src="./assets/template-easy-shopping-01.jpg" alt="easy-shopping-interface"/>
+<img align="left" height="350px" src="./assets/template-easy-shopping-01.jpg" alt="easy-shopping-interface"/>
 
-<img height="300px" src="./assets/template-easy-shopping-02.jpg" alt="easy-shopping-interface"/>
+<img height="350px" src="./assets/template-easy-shopping-02.jpg" alt="easy-shopping-interface"/>
 
 <h2>📝 Descrição do Projeto:</h2>
 
